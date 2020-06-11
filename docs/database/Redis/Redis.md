@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [redis 简介](#redis-简介)
+- [redis 简介](#redis-简介)1111
 - [为什么要用 redis/为什么要用缓存](#为什么要用-redis为什么要用缓存)
 - [为什么要用 redis 而不用 map/guava 做缓存?](#为什么要用-redis-而不用-mapguava-做缓存)
 - [redis 和 memcached 的区别](#redis-和-memcached-的区别)
